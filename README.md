@@ -22,7 +22,7 @@ Our goal is to keep development **clear, organized, and collaborative** while mo
 
 ## 📂 Repositories
 
-### 🖥️ Frontend
+### Frontend (All Repositories are currently private)
 
 * **Frontend-Kierrans_Prototype** *(Private)*
   Early UI/UX prototype focused on Kierran’s concepts and experiments.
@@ -30,10 +30,10 @@ Our goal is to keep development **clear, organized, and collaborative** while mo
 * **Frontend-Larrys_Prototype** *(Private)*
   Alternative frontend prototype exploring different layout and interaction ideas.
 
-* **Frontend-Prototype-1** *(Public · JavaScript)*
+* **Frontend-Prototype-1** *(Private · JavaScript)*
   Initial public-facing frontend prototype.
 
-* **Da-Vinci_Front-End** *(Public)*
+* **Da-Vinci_Front-End** *(Private)*
   Main frontend codebase intended for production use.
 
 ### ⚙️ Backend
@@ -46,9 +46,9 @@ Our goal is to keep development **clear, organized, and collaborative** while mo
 
 ---
 
-## ✅ Development Rules (Important)
+## Development Rules (Important)
 
-To keep the organization clean and maintainable, **all contributors must follow these rules**:
+To keep this organization clean and maintainable, **all contributors must follow these rules**:
 
 * ✍️ **Commit messages must accurately describe what was added or changed**
   *Bad:* `update`
@@ -65,7 +65,7 @@ These rules help with:
 
 ---
 
-## 🧭 Workflow Overview
+## Workflow Overview
 
 1. Pick a task from the **Task List** or your **Personal Tasks** view
 2. Create or update a branch as needed
@@ -75,7 +75,7 @@ These rules help with:
 
 ---
 
-## 🚀 Project Status
+## Project Status
 
 The Da‑Vinci App is under **active development** with multiple parallel prototypes feeding into a unified frontend and backend.
 
@@ -104,7 +104,3 @@ If you are part of this organization:
 * When in doubt, document decisions
 
 Let’s keep Da‑Vinci clean, scalable, and enjoyable to work on ✨
-
----
-
-*Da‑Vinci App Organization README*
