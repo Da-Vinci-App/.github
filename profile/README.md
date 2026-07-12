@@ -36,7 +36,7 @@ Our goal is to keep development **clear, organized, and collaborative** while mo
 * **Da-Vinci_Front-End** *(Private)*
   Main frontend codebase intended for production use.
 
-### ⚙️ Backend
+### Backend
 
 * **Backend-Prototype_1** *(Private · TypeScript)*
   Early backend prototype used to validate architecture and APIs.
